@@ -1,0 +1,37 @@
+
+<html>
+    <head>
+        <style>
+            body{
+    background-color:pink;
+}
+textarea {
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+        </style>
+    </head>
+    <body>
+        <form action="complaint.php">
+            <center>
+            <label for="fname">First name:</label><br>
+            <input type="text" id="fname" name="fname" ><br>
+            <label for="lname">Last name:</label><br>
+            <input type="text" id="lname" name="lname" ><br><br>
+            <label for="email">Email Id:</label><br>
+            <input type="text" id="email" name="email" ><br><br>
+            <label for="Phone">Phone no:</label><br>
+            <input type="text" id="phoneno" name="phoneno" ><br><br>
+            <label for="lname">Cosmetic name:</label><br>
+            <input type="text" id="cname" name="cname" ><br><br>
+            <label for="complaint">Type your complaint here:</label><br>
+            <textarea rows="4" cols="20" name="complaint" ></textarea><br><br>
+            <input type="submit" value="Submit"></center>
+          </form>
+    </body>
+</html>
