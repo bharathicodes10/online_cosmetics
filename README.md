@@ -7,3 +7,10 @@
 <img width="960" alt="2022-06-08 (8)" src="https://user-images.githubusercontent.com/89197019/208365114-3709e01a-7de2-4e49-b082-732b8fed992c.png">
 <img width="960" alt="2022-06-08 (12)" src="https://user-images.githubusercontent.com/89197019/208365127-a3d959d8-094c-4e56-b9ee-13377d0a85ed.png">
 
+# Developed using
+- HTML
+- CSS
+- JS
+- Bootstrap
+- JQuery
+- PHP
